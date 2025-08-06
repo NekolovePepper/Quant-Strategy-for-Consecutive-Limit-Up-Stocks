@@ -7,6 +7,10 @@ Notably, the pipeline incorporates an XGBoost‑based machine‑learning branch 
 
 Notably, this strategy has been **implemented in live trading**, and results confirm its feasibility and sustained excess returns over multi‑month periods—adding meaningful credibility to the framework.
 
+Notice, since a datafiles is too big to upload to github, please use this link (Baidu Netdisk) to download a important data if you want to run this project. The file is called touch_signals_with_factors_and_returns.pkl, it is the output of dataload1.py
+Baidu Netdisk link below:
+shared file through Netdisk：touch_signals_with_factors_and_returns.pkl
+link: https://pan.baidu.com/s/1ItqxXXWU6aIRcGeFz4hsMw?pwd=1234 Password: 1234
 ---
 
 ## 1. Pipeline at a Glance
