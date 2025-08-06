@@ -82,7 +82,8 @@
 
 ## 5. 快速上手
 
-bash
+
+```bash
 # 1. 生成原始信号（SSD 上约 30–60 分钟）
 python dataload1.py
 
@@ -102,6 +103,7 @@ python stockscore5_ex1.py
 bash
 python xgbtrain4.py      # train + predict
 python xgb_ana5.py       # performance & decile analysis
+```
 
 ## 6  示例结果
 
