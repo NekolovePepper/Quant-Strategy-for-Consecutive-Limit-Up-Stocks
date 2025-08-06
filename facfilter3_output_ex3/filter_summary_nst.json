@@ -1,0 +1,49 @@
+{
+  "initial_factors": 984,
+  "after_quality_filter": 351,
+  "after_duplicate_removal": 344,
+  "after_threshold_filter": 344,
+  "final_selected": 100,
+  "duplicates_found": 6,
+  "factors_removed_as_duplicates": 7,
+  "direction_distribution": {
+    "sell": 77,
+    "buy": 23
+  },
+  "avg_score": 0.5769272286257856,
+  "top10_factors": [
+    "ret_std_up_ma2",
+    "ret_std_up_ma1",
+    "ret_std_up_ma3",
+    "cora1_ma1",
+    "ret_std_down_ma1",
+    "vwap_ret_ma1",
+    "amt_r_1430_ma60",
+    "cora_ma1",
+    "ret_std_up_ma5",
+    "cora_ma5"
+  ],
+  "parameters": {
+    "exclude_st": true,
+    "duplicate_threshold": 0.98,
+    "score_weights": {
+      "ic_ir": 0.2,
+      "rankic_ir": 0.25,
+      "ic_abs_mean": 0.0,
+      "rankic_abs_mean": 0.05,
+      "long_short_ret": 0.15,
+      "long_short_win": 0.1,
+      "monotonicity_score": 0.15,
+      "stability_score": 0.1,
+      "significance_score": 0.0
+    },
+    "filter_thresholds": {
+      "min_rankic_ir": null,
+      "min_rankic_abs_mean": 0.01,
+      "min_mono_strength": null,
+      "min_comprehensive_score": null
+    },
+    "max_factors": 100
+  },
+  "elapsed_seconds": 62.18847632408142
+}

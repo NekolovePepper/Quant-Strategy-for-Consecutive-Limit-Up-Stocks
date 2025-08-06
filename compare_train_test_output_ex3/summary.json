@@ -1,0 +1,8 @@
+{
+  "train_signals": 71513,
+  "test_signals": 22132,
+  "train_avg_excess": 0.0008417364922946302,
+  "test_avg_excess": 3.5162186993228844e-05,
+  "group_n": 10,
+  "apply_limitup_zero": true
+}

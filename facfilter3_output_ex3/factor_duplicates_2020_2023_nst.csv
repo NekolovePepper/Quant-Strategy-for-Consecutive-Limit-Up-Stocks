@@ -1,0 +1,8 @@
+kept_factor,removed_factor,correlation
+mean_ret_ma10,vwap_ret2_ma10,0.98
+mean_ret_ma20,vwap_ret2_ma20,0.98
+mean_ret_ma60,vwap_ret2_ma60,0.98
+mean_ret_ma60,price_alpha_ma60,0.98
+amt_mean_ma1,amt_mean_ma2,0.98
+amt_mean_ma3,amt_mean_ma5,0.98
+lnamt_mean_ma2,lnamt_mean_ma3,0.98

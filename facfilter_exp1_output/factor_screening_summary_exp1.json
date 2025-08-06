@@ -1,0 +1,9 @@
+{
+  "total_factors": 343,
+  "after_opt_dir": 343,
+  "after_corr_filter": 328,
+  "selected_top_pct": 0.3,
+  "selected_count": 98,
+  "elapsed_sec": 53.79,
+  "corr_threshold": 0.97
+}
