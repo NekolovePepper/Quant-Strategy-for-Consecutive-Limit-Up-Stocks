@@ -7,6 +7,9 @@
 
 该策略已在真实资金账户运行数月，收益路径与回测高度一致，证实其长期超额收益能力，也为本框架增添了实战含金量
 
+注意，因为一个数据文件超过了github的上传大小限制。所以如果你想跑通整个项目并进行是实验，请务必使用一个网盘链接去下载这个重要的文件。文件名为touch_signals_with_factors_and_returns.pkl，是dataload1.py的输出结果。百度网盘链接如下：通过网盘分享的文件：touch_signals_with_factors_and_returns.pkl
+链接: https://pan.baidu.com/s/1ItqxXXWU6aIRcGeFz4hsMw?pwd=1234 提取码: 1234
+
 ---
 
 ## 1  Pipeline at a Glance
